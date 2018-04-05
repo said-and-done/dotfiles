@@ -1,0 +1,16 @@
+## path: /private/etc/hosts
+#
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+127.0.0.1	local.files.tv2.dk
+127.0.0.1	php.local.files.tv2.dk
+127.0.0.1	local.toolbox.tv2.dk
+127.0.0.1	local.tools.tv2.dk
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost
+
