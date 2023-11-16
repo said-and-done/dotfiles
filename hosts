@@ -1,10 +1,10 @@
 ## path: /private/etc/hosts
 #
 # Host Database
-##
+# build
 # localhost is used to configure the loopback interface
 # when the system is booting.  Do not change this entry.
-##
+#
 127.0.0.1	localhost
 127.0.0.1	local.files.tv2.dk
 127.0.0.1	php.local.files.tv2.dk
